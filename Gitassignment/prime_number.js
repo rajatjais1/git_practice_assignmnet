@@ -1,6 +1,6 @@
 function prime(no){
   let count =0
-  for(let i=1;i<=no;i++){
+  for(let i=0;i<=no;i++){
     if(no%i==0){
       count++}
   }
